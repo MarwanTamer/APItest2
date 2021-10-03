@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<CustomerDetailedInquiry>
+    <testone>marwan</testone>
+    <testtwo>tamer</testtwo>
+    <dial>201284705243</dial>
+    <fromdate>2021-09-01</fromdate>
+    <todate>2021-09-21</todate>
+    <Lang>En</Lang>
+    <TransactionID>487fc7b1-9b68-4626-b38c-c74292034186</TransactionID>
+    <callername>Digital</callername>
+</CustomerDetailedInquiry>
